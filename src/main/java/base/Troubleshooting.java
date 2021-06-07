@@ -1,11 +1,9 @@
 package base;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Troubleshooting {
     public Scanner input = new Scanner(System.in);
-    public int flag;
     public String answer;
 
     public String askQuestion()

@@ -1,11 +1,12 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 23 Solution
+ *  Copyright 2021 Paul Shannon
+ */
 package base;
-
-import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
         //instances
-        App myApp = new App();
         Troubleshooting help = new Troubleshooting();
 
         //fix issue
